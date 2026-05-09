@@ -1,0 +1,35 @@
+header {
+  
+   background-color:cyan;
+
+
+}
+
+.foto {
+
+   display: flex;
+   justify-content: space-around;
+}
+
+.potato {
+
+  color:#ff8080;
+
+}
+
+.banana {
+   color:rgb(204, 255, 0);
+}
+
+.apple {
+   color:red;
+}
+
+.pine {
+   color:rgb(11, 123, 243);
+}
+
+.pineapple {
+   width:200px;
+   height:10px
+}
